@@ -1,10 +1,10 @@
-Code for a transient 2-layer moist energy balance model. Solves zonal-mean temperature and hydrologic cycle anomalies through time. Couples the following two models:
+**Code for a transient 2-layer moist energy balance model.** Solves zonal-mean temperature and hydrologic cycle anomalies through time. Couples the following two models:
 
 2-layer Ocean
-Geoffroy et al. 2013
+(Geoffroy et al. 2013)
 
-Moist energy balance Model w/ Paramaterization of the Hadley Cell Circulation
-Siler et al. 2018
+Moist energy balance model w/ paramaterization of the Hadley circulation
+(Siler et al. 2018)
 
 
 References...
