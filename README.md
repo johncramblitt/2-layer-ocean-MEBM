@@ -1,4 +1,4 @@
-**Code for a transient 2-layer moist energy balance model.** Solves zonal-mean temperature and hydrologic cycle anomalies through time. Couples the following two models:
+**Code for a transient 2-layer moist energy balance model designed by John Cramblitt, Samuel Richard, and Vlad Munteanu.** Solves zonal-mean temperature and hydrologic cycle anomalies through time. Couples the following two models:
 
 2-layer Ocean
 (Geoffroy et al. 2013)
